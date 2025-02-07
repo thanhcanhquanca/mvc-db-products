@@ -9,5 +9,7 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+<a href="products?aciton=create">Create</a>
+<a href="products?aciton=delete">delete</a>
 </body>
 </html>

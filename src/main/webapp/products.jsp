@@ -18,7 +18,6 @@
     <td>name</td>
     <td>description</td>
     <td>price</td>
-    <td>address</td>
   </tr>
 
   <c:forEach items="${products}" var="p">
@@ -27,7 +26,6 @@
       <td>${p.name}</td>
       <td>${p.description}</td>
       <td>${p.price}</td>
-      <td>${p.address}</td>
     </tr>
   </c:forEach>
 </table>

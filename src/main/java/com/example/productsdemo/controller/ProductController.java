@@ -2,7 +2,7 @@ package com.example.productsdemo.controller;
 
 import com.example.productsdemo.model.Product;
 import com.example.productsdemo.service.IProductService;
-import com.example.productsdemo.service.ProductService;
+
 import com.example.productsdemo.service.ProductServiceDB;
 
 import javax.servlet.RequestDispatcher;
